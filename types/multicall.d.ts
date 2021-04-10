@@ -1,6 +1,6 @@
 /// <reference types="node"/>
 
-declare module '@bscdelta/multicall' {
+declare module '@makerdao/multicall' {
   import { BigNumber } from 'bignumber.js';
 
   export interface IConfig {
