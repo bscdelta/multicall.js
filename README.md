@@ -95,7 +95,7 @@ fetchWaiter.then(() => {
 
 ```javascript
 // Recreate the watcher with new calls and config (allowing the network to be changed)
-const config = { preset: 'mainnet' };
+const config = { preset: 'bsc' };
 watcher.recreate(
   [
     {
