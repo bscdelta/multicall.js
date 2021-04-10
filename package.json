@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/makerdao/multicall.js.git"
+    "url": "https://github.com/bscdelta/multicall.js.git"
   },
   "main": "dist/multicall.cjs.js",
   "types": "types/multicall.d.ts",
